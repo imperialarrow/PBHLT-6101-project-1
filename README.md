@@ -4,4 +4,4 @@ ANSUR data analysis
 
 ## How to run project
 
-Run first part of do file
+
